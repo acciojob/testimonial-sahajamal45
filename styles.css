@@ -1,4 +1,4 @@
-dd{
+.right{
 	text-align:right;
 }
 .container{
@@ -10,10 +10,11 @@ dd{
 body{
 	background-color:white;
 }
-dl{
+.para{
 	background-color:white;
 	border: 1px solid lightgray;
 	font-size:8px;
 	margin:20px;
-	height:40px;
+/* 	height:40px; */
+	padding:15px;
 }
